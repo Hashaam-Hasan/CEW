@@ -4,7 +4,7 @@
 
 int main(){
   int size_of_array;
-  printf("Enter no of elements of an array:")
+  printf("Enter no of elements of an array:");
     scanf("%d",&size_of_array);
   int array[size_of_array];
   int *ptr=array;
