@@ -11,4 +11,4 @@ struct Node* RemoveOdd(struct Node* head){
         }
     }
     return head;
-};
+}
