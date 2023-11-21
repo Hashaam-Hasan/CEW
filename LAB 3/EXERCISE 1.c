@@ -23,7 +23,7 @@ int main(){
   int a,b;
   int*ptr1=&a;
   int*ptr2=&b;
-  int*ptr3=NULL;
+  int*ptr3='NULL';
   printf("Enter the first element:");
   scanf("%d",&a);
   printf("Enter the second element:");
